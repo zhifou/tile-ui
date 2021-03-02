@@ -12,6 +12,11 @@
     "UI",
     "React"
   ],
+  "homepage": "https://github.com/zhifou/tile-ui",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhifou/tile-ui"
+  },
   "files": [
     "dist"
   ],
